@@ -6,9 +6,9 @@ export const courses = [
         desc:"Imran Afzal",
         rateScore:4.6,
         reviewerNum:"128,636",
-        price:129.99,
+        price:1299,
         onSale: true,
-        onSalePrice:99.99,
+        onSalePrice:499,
         mark: "Bestseller"
   
     },
@@ -19,7 +19,7 @@ export const courses = [
         desc:"Jonas Schemedtmann",
         rateScore:4.7,
         reviewerNum:"128,636",
-        price:199.99,
+        price:1999,
         onSale: false,
         mark: "Bestseller"
 
@@ -31,7 +31,7 @@ export const courses = [
         desc:"Kyle Pew, Office Newb",
         rateScore:4,
         reviewerNum:"285,191",
-        price:149.99,
+        price:1499,
         onSale: false,
  
     },
@@ -42,7 +42,7 @@ export const courses = [
         desc:"Rob Percival, Daraph Walsh, Codestars by Rob Percival",
         rateScore:4.5,
         reviewerNum:"154,729",
-        price:179.99,
+        price:1799,
         onSale: false,
         mark: "Bestseller"
     },
@@ -53,7 +53,7 @@ export const courses = [
         desc:"Zaid Sabih, z Security",
         rateScore:4.6,
         reviewerNum:"102,409",
-        price:139.99,
+        price:1399,
         onSale: false,
         mark: "Bestseller"
     },
@@ -64,7 +64,7 @@ export const courses = [
         desc:"Colt Steele, lan Schoononver",
         rateScore:4.6,
         reviewerNum:"64,376",
-        price:119.99,
+        price:1199,
         onSale: false,
         mark: "Bestseller"
     },
@@ -75,9 +75,9 @@ export const courses = [
         desc:"Maven Analytics",
         rateScore:3.6,
         reviewerNum:"64,376",
-        price:109.99,
+        price:1099,
         onSale: true,
-        onSalePrice:79.99,
+        onSalePrice:799,
 
     },
   ];
@@ -91,7 +91,7 @@ export const courses = [
         desc:"Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer",
         rateScore:3.5,
         reviewerNum:"261",
-        price:44.99,
+        price:499,
         onSale: false,
         mark: ""
   
@@ -103,7 +103,7 @@ export const courses = [
       desc:"Chris Siles",
       rateScore:4.3,
       reviewerNum:"261",
-      price:44.99,
+      price:499,
       onSale: false,
       mark: "Bestseller"
 
@@ -115,7 +115,7 @@ export const courses = [
         desc:"Christophe Limpalair, Cybr Training",
         rateScore:4.4,
         reviewerNum:"142",
-        price:24.99,
+        price:499,
         onSale: false,
         mark: "Bestseller"
     },
@@ -127,9 +127,9 @@ export const courses = [
         desc:"Vonnie Hudson",
         rateScore:4,
         reviewerNum:"35",
-        price:119.99,
+        price:1199,
         onSale: true,
-        onSalePrice:89.99,
+        onSalePrice:899,
         mark: ""
     },
     {
@@ -139,7 +139,7 @@ export const courses = [
         desc:"Shubham Pareek",
         rateScore:4.3,
         reviewerNum:"44",
-        price:54.99,
+        price:549,
         onSale: false,
         mark: "Bestseller"
     },
@@ -150,7 +150,7 @@ export const courses = [
         desc:"Colt Steele, lan Schoononver",
         rateScore:3,
         reviewerNum:"344",
-        price:24.99,
+        price:2499,
         onSale: false,
         mark: ""
     },
@@ -161,9 +161,9 @@ export const courses = [
         desc:"Colt Steele",
         rateScore:4,
         reviewerNum:"344",
-        price:139.99,
+        price:13999,
         onSale: true,
-        onSalePrice:79.99,
+        onSalePrice:799,
         mark: ""
     },
   ];

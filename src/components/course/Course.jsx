@@ -160,11 +160,11 @@ const Course = ( {item} ) => {
             <PriceWrapper>
                 {item.onSale ? (
                   <>
-                    <CoursePrice>CA${item.onSalePrice}</CoursePrice>&nbsp;&nbsp;
-                    <CrossOffPrice>CA${item.price}</CrossOffPrice>
+                    <CoursePrice>₹ {item.onSalePrice}</CoursePrice>&nbsp;&nbsp;
+                    <CrossOffPrice>₹ {item.price}</CrossOffPrice>
                   </> 
                 ) : (
-                  <CoursePrice>CA${item.price}</CoursePrice>
+                  <CoursePrice>₹ {item.price}</CoursePrice>
                 )}
              </PriceWrapper>
 
